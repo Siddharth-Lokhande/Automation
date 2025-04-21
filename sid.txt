@@ -1,0 +1,4 @@
+{
+  "python.condaPath": "C:\\path\\to\\conda.exe"
+  set PATH=%PATH%;C:\Users\sidlo\Anaconda3\Scripts
+}
